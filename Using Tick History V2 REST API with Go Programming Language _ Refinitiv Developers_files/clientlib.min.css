@@ -1,0 +1,4 @@
+.align-center{margin:auto;padding-bottom:24px;width:50px}
+.align-left{margin:0;padding-bottom:24px;width:50px}
+.align-right{float:right;padding-bottom:24px;width:50px}
+.clearfix:after{content:".";visibility:hidden;display:block;height:0;clear:both}

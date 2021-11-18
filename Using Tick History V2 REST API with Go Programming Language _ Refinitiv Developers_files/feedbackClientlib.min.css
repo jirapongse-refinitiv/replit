@@ -1,0 +1,18 @@
+#modal-feedbackModal .tr-Form h1{font-size:28px;font-weight:bold;color:#4d4d4d;margin-bottom:32px}
+.error{color:red}
+.modalConf .tr-Modal-dialog{min-width:840px;max-width:840px;height:auto;margin-bottom:32px}
+.modalConf .tr-Modal-contentInner{padding:0 16px;margin-bottom:0}
+.modalConf .tr-Modal-contentOuter{min-height:auto}
+.modal-heading{font-size:28px;padding-bottom:25px}
+.modal-subheading{font-size:19px;padding-bottom:25px}
+.modalConf .tr-Modal .tr-Section-inner{padding-bottom:30px;padding-top:30px;margin:0}
+.modalConf .tr-Modal{background:rgba(0,0,0,0.7)}
+.modalConf .tr-VerticalSpacing.tr-VerticalSpacing--xs{text-align:center;margin-top:20px}
+@media screen and (max-width:719px){.modalConf .tr-Modal-dialog{min-width:0}
+.modalConf .tr-Modal-dialog.thankyou-modal{min-width:0}
+}
+.modalConf .tr-Modal-headerInner{height:auto;min-height:72px}
+.modalConf .eyebrow-text{float:left}
+.modalConf .close-button-text{float:right}
+.modalConf .heading-text{clear:both}
+.modalConf .modal-header-text{padding:20px;width:100%}
